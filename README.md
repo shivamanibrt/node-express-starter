@@ -27,7 +27,7 @@ A production-ready, fully-typed Express.js boilerplate with Prisma ORM, Redis su
 1. **Clone the repository**
 
 ```bash
-git clone [<your-repo-url>](https://github.com/shivamanibrt/node-express-starter.git)
+git clone (https://github.com/shivamanibrt/node-express-starter.git)
 cd <project-name>
 ```
 
